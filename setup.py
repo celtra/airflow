@@ -185,7 +185,7 @@ elasticsearch = [
     'elasticsearch>=5.0.0,<6.0.0',
     'elasticsearch-dsl>=5.0.0,<6.0.0'
 ]
-emr = ['boto3>=1.0.0, <1.8.0']
+emr = ['boto3>=1.0.0']
 gcp = [
     'google-api-python-client>=1.6.0, <2.0.0dev',
     'google-auth-httplib2>=0.0.1',
